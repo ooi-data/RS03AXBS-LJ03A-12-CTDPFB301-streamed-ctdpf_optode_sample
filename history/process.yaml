@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS03AXBS-LJ03A-12-CTDPFB301-streamed-ctdpf_optode_sample
 data_stream: RS03AXBS-LJ03A-12-CTDPFB301-streamed-ctdpf_optode_sample
-end_date: '2021-12-01T21:46:44.022Z'
-last_updated: '2021-12-22T06:21:31.219649'
+end_date: '2022-01-01T01:34:52.983Z'
+last_updated: '2022-01-01T21:28:09.577819Z'
 start_date: '2014-08-22T22:51:18.149Z'
-status: success
+status: pending
